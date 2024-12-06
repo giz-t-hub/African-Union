@@ -15,7 +15,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Other national and sectoral documents](#other-national-sectoral-documents) 
 - [Climate and energy policies](#climate-energy-policies)
 - [Urban and regional development](#urban)
-- [EU accession and cooperation](#eu-accession)
+- [EU cooperation](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)  
 - [Digitalisation](#digitalisation)
 - [Gender and Equality](#gender)
@@ -55,7 +55,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - 
 
-### EU accession and cooperation <a name="eu-accession"></a> 
+### EU cooperation <a name="eu-accession"></a> 
 
 - 
 
