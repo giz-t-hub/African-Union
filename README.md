@@ -58,6 +58,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### EU cooperation <a name="eu-accession"></a> 
 
 - EU-Africa: Global Gateway Investment Package: https://international-partnerships.ec.europa.eu/policies/global-gateway/initiatives-sub-saharan-africa/eu-africa-global-gateway-investment-package_en
+- <b> Strategic Corridors for an enhanced and greener EU-Africa connectivity </b> https://publications.jrc.ec.europa.eu/repository/handle/JRC128380 - *As part of the Global Gateway investment priorities, and in line with the African Union's Agenda 2063 and the ambitions of the African Continental Free Trade Area, the EU intends to support the African continent by financing quality connectivity infrastructure through multi-country Team Europe Initiatives shaped along Strategic Corridors. A limited number of Strategic Corridors has been identified considering their potentialities to facilitate sustainable, efficient, smart, resilient, fair, affordable, secure and safe mobility and trade within Africa, as well as between Africa and Europe.*
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
