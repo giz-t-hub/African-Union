@@ -57,7 +57,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### EU cooperation <a name="eu-accession"></a> 
 
-- 
+- EU-Africa: Global Gateway Investment Package: https://international-partnerships.ec.europa.eu/policies/global-gateway/initiatives-sub-saharan-africa/eu-africa-global-gateway-investment-package_en
 
 ### Trade Facilitation <a name="trade-facilitation"></a> 
 
