@@ -31,7 +31,8 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - General
 
-- AfDB:
+- SADC
+-   - <b> Regional Infrastructure Development Master Plan Transport Sector Plan 2012 </b> https://www.sadc.int/sites/default/files/2021-08/Regional_Infrastructure_Development_Master_Plan_Transport_Sector_Plan.pdf - *- AfDB:With infrastructure central to its goals of poverty eradication and Regional Integration, SADC developed the Regional Infrastructure Development Master Plan as a strategic framework guiding infrastructure development in Southern Africa. The Transport Sector Plan component of this Master Plan aims to identify key hubs for rehabilitation and development in order to improve the ability of passengers and goods to reach markets. The Sector Plan analyses the current situation in SADC regarding roads, rails, ports, waterways, and air transport, offering projections for the future and an assessment of gaps between the current situation and infrastructure goals for 2027. It then sets out a strategic framework for improvements to transport infrastructure, as well as an implementation strategy that prioritises projects, resource requirements, and methods of implementation. These improvements respond to a need for greater capacity along strategic transportation corridors as industry develops throughout Southern Africa.*
   - </b> Transport Sector Policy 1993 </b> https://www.afdb.org/sites/default/files/documents/policy-documents/18-_en-_transport-policy.pdf  
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
