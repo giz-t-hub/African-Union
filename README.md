@@ -52,7 +52,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
     
 - Adaptation
    
-
+ 
 - Energy policy 
     
 
